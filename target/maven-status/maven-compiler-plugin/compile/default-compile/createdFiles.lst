@@ -1,2 +1,6 @@
+com\study\zcm\spring_boot\repository\UserRepository.class
+com\study\zcm\spring_boot\entity\User.class
+com\study\zcm\spring_boot\controller\UserController.class
 com\study\zcm\spring_boot\App.class
-com\study\zcm\spring_boot\Controller\SampleController.class
+com\study\zcm\spring_boot\controller\SampleController.class
+com\study\zcm\spring_boot\service\UserService.class
