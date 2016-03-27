@@ -28,4 +28,8 @@ public class UserService {
 	public List<User> getUsers() {
 		return ur.findAll();
 	}
+	
+	public void deleteAllUsers() {
+		ur.deleteAll();
+	}
 }
